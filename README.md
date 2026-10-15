@@ -1,8 +1,7 @@
 # timer
 A small python timer; built because I needed a very simple timer instead of the ones available.
 
-####################################
-To create the .exe file;
+# To create the .exe file;
 
 Download the two files to a folder on your computer.
 
